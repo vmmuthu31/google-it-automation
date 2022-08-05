@@ -4,9 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/88650559/178109010-35a41f70-abba-44c3-8561-e1013a255ad6.png)
 
-* This repository written for reference and self-documentation purpose
-* Feel free to contribute!
-
 <br>
 
 ### About this Professional Certificate
